@@ -1,4 +1,4 @@
 CS427
 =====
 
-CS 427: Object-Oriented Programming
+Final project for Object-Oriented Programming (Yale, Fall 2012): Sudoku game application
